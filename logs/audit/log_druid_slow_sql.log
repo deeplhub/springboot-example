@@ -1,0 +1,14 @@
+[springboot-druid 0.0.0.0:8001] 2022-09-21 13:44:51.936 ERROR 7276 [] [main] org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8001 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8001 or configure this application to listen on another port.
+
